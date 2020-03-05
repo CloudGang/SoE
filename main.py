@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = "Supreme Ciento"
+__author__ = "Erik Faison"
 __copyright__ = "Copyright (C) 2020 CloudBots™"
 __license__ = "GNU 3.0"
 __version__ = "0.1.1"
